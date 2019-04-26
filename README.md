@@ -1,4 +1,4 @@
-# learngit
+﻿# learngit
 ![](https://cdn.liaoxuefeng.com/cdn/files/attachments/0013848605496402772ffdb6ab448deb7eef7baa124171b000/0)
 * 学习了[廖雪峰](https://www.liaoxuefeng.com/)老师的[Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 * 整理了Git学习笔记，放在了learngit-note.md
@@ -11,3 +11,6 @@ https://www.jianshu.com/p/414ccd423efc
 
 # git图形化工具
 https://devopshub.cn/2016/06/20/git-gui-client-tools/
+
+# git命令大全
+https://gist.github.com/guweigang/9848271
